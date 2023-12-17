@@ -1,5 +1,16 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jan Zisenis
-===================================================================================================================================Student-------Lorum ipsum hier a description of you* 🌍  I'm based in Osnabrueck, Germany* 🖥️  See my portfolio at [Website](http://www.mr-jz.de)_ ✉️  You can contact me at [jan.zisenis@gmail.com](mailto:jan.zisenis@gmail.com)_ 🧠  I'm learning Flutter, Supabase* 🤝  I'm open to collaborating on your Idea in the direction of automation or an App (developed in Flutter)* ⚡  Im into Designing my one UI and also 3D-Module
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jan Zisenis
+
+## Student
+
+Lorum ipsum hier a description of you
+
+- 🌍  I'm based in Osnabrueck, Germany
+- 🖥️  See my portfolio at [Website](http://www.mr-jz.de)
+  _ ✉️  You can contact me at [jan.zisenis@gmail.com](mailto:jan.zisenis@gmail.com)
+  _ 🧠  I'm learning Flutter, Supabase
+
+* 🤝  I'm open to collaborating on your Idea in the direction of automation or an App (developed in Flutter)
+* ⚡  Im into Designing my one UI and also 3D-Module
 
 <a href="https://www.github.com/Mr-JZ" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Mr-JZ?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
