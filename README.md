@@ -1,25 +1,14 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jan Zisenis
 
-<!-- TODO: Change the Bio of the github profile
-Add a short summary of the description
--->
-<!-- TODO: Check to add some socials
-https://www.linkedin.com/in/jan-zisenis-467206192/
-https://www.instagram.com/jan_zisenis/
--->
-
 ## Student
 
-<!-- TODO: Make a good description for your self Check this for spelling and maybe better flow-->
-
-I currently am Programming a freetime project that helpfull for the planing of the shooping (Flutter, Supabase). And I was ocupied with backend, but decided that fullstack is more interesting for me. I programmed a API with FastAPI and also quarkus(Java). I like to bring my ideas into reality, because of that i started with programming at the age of 16 and also made some 3D Models that I printed on a 3D Printer. The process of automation and that everything runs smoothly in the end fullfills me. And for the backend part I love to use docker container, they can be setup easy.
+I am currently working on a personal project centered around shopping planning, utilizing Flutter and Supabase. My initial focus was on Embedded development, but I've discovered a growing interest in full-stack development. This led me to create an API using FastAPI, and I've also explored Quarkus in Java. My passion for bringing ideas to life began at the age of 16, which is when I started programming. This journey has included creating and printing 3D models with a 3D printer. I find great fulfillment in the process of automation and ensuring the smooth operation of final products. Additionally, I have found that using Docker containers for backend development simplifies setup and usage.
 
 - 🌍  I'm based in Osnabrueck, Germany
 - 🖥️  See my portfolio at [Website](http://www.mr-jz.de)
 - ✉️  You can contact me at [jan.zisenis@gmail.com](mailto:jan.zisenis@gmail.com)
 - 🧠  I'm learning Flutter, Supabase, Go
-<!-- TODO: Check if that is correct grammar? The next two bullet points-->
-- 🤝  I'm open to collaborating on your Idea in the direction of automation or an App (developed in Flutter)
+- 🤝  I am open to collaborating on your idea in the direction of automation or an app developed in Flutter.
 - ⚡  If I'm not programming, I make 3D-Modell for 3D-Printing or I design a ui in figma.
 
 <a href="https://www.github.com/Mr-JZ" target="_blank" rel="noreferrer"><img
